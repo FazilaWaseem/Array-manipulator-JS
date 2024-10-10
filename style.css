@@ -1,0 +1,98 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(240, 242, 255);
+}
+
+.container{
+  text-align: center;
+  border-radius: 10px;
+  margin-top: 50px;
+  margin: 50px auto;
+  max-width: 600px; 
+  padding: 20px; 
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0 0 10px rgba(0, 195, 255, 0.062);    
+}
+
+
+.btn{
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+.btns{
+    margin: 20px;
+}
+
+.button{
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+#input1{
+    margin-top: 10px;
+    padding: 20px;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px ;
+    width: 35rem;
+    border: none   rgba(47, 79, 79, 0.418);
+    background-color: rgb(240, 241, 255);
+}
+
+#input2{
+    margin-top: 10px;
+    color: black;
+    padding: 10px;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    width: 20rem;
+}
+
+#buttonContainer{
+    background-color: blue;
+    padding: 10px;
+}
+
+#fruits{
+    display: none;
+}
+
+.arrayButton{
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin: 10px;
+}
+
+p{
+    color: #4CAF50;
+    font-size:2rem ;
+}
